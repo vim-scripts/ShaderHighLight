@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5205
+
+功能描述:
+1.整合了目前常用的shader文件格式的语法高亮
+2.支持格式：glsl，hlsl，cg，shaderlab（unity的shader格式）
+3.这个插件是对一些已有的vim高亮插件进行整合，这些插件有 
+https://github.com/tikhomirov/vim-glsl 
+https://github.com/beyondmarc/hlsl.vim 
+https://github.com/vim-scripts/cg.vim
+插件git地址:
+http://git.oschina.net/qiuchangjie/ShaderHighLight
